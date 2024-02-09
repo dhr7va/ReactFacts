@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactFacts/static/css/main.ddfe302c.css",
+    "main.js": "/ReactFacts/static/js/main.e3cbdac4.js",
+    "index.html": "/ReactFacts/index.html",
+    "main.ddfe302c.css.map": "/ReactFacts/static/css/main.ddfe302c.css.map",
+    "main.e3cbdac4.js.map": "/ReactFacts/static/js/main.e3cbdac4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddfe302c.css",
+    "static/js/main.e3cbdac4.js"
+  ]
+}
